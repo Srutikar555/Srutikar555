@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and android development**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 👯 I’m looking to collaborate on **Front-end Projects**
 
 - 💬 Ask me about **Web Development and UI/UX.**
 
