@@ -2,20 +2,12 @@
 
 <p align="center" >
  
-  <img height=60px src="(https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://Srutikar555.io) "/>
+  <img height=30px src="(https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://Srutikar555.io) "/>
   
  </p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Sofia&color=6688FA&size=30&center=true&vCenter=true&width=1000&height=70&lines=Hey+There+&#33+I'm+Sruti+Smaranika+Kar;A+passionate+Web+Developer+,+App+Developer+and+UI/UX+Designer;Welcome+to+my+Github+Profile" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Sofia&color=6688FA&size=35&center=true&vCenter=true&width=1000&height=70&lines=Hey+There+&#33+I'm+Sruti+Smaranika+Kar;A+passionate+Web+Developer+,+App+Developer+and+UI/UX+Designer;Welcome+to+my+Github+Profile" />
   </p>
 <hr>
-
-
-
-
-
- 
-  
-
 
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
