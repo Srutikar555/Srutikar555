@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sruti-smaranika-kar-9a290125b" target="blank"><img align="center" src="https://stock.adobe.com/in/images/linkedin-set-of-social-media-logos/296542385" alt="https://www.linkedin.com/in/sruti-smaranika-kar-9a290125b" height="30" width="40" /></a>
-<a href="https://instagram.com/_srutikar_?igshid=mznlngnkzwq4mg" target="blank"><img align="center" src="https://www.freepik.com/free-photos-vectors/instagram-logo" alt="https://instagram.com/_srutikar_?igshid=mznlngnkzwq4mg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sruti-smaranika-kar-9a290125b" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Instagram_icon.png" alt="https://www.linkedin.com/in/sruti-smaranika-kar-9a290125b" height="30" width="40" /></a>
+<a href="https://instagram.com/_srutikar_?igshid=mznlngnkzwq4mg" target="blank"><img align="center" src="[logo](https://www.flaticon.com/free-icon/linkedin_174857)" alt="https://instagram.com/_srutikar_?igshid=mznlngnkzwq4mg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
