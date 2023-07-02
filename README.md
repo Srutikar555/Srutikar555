@@ -2,7 +2,7 @@
 
 <p align="center" >
  
-  <img height=40px src="(https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://Srutikar555.io) "/>
+  <img height=20px src="(https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://Srutikar555.io) "/>
   
  </p>
  <img src="https://readme-typing-svg.herokuapp.com?font=Sofia&color=88Fd45&size=30&center=true&vCenter=true&width=1000&height=70&lines=Hey+There+&#33+I'm+Sruti+Smaranika+Kar;A+passionate+Web+Developer+,+App+Developer+and+UI/UX+Designer;Welcome+to+my+Github+Profile😄" />
