@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srutikar555&label=Profile%20views&color=0e75b6&style=flat" alt="srutikar555" /> </p>
 
-- 🌱 I’m currently learning **DSA and android development**
+- 🌱 I’m currently learning **DSA and Android development**
 
 - 👯 I’m looking to collaborate on **front end web projects**
 
