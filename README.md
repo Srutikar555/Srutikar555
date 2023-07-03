@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **DSA and Android development**
 
-- 👯 I’m looking to collaborate on **front end web projects**
+- 👯 I’m looking to collaborate on **Web development**
 
-- 💬 Ask me about **Web Development and UI/UX.**
+- 💬 Ask me about **Front end web Development and UI/UX.**
 
 - 📫 How to reach me **srutismaranika2123@gmail.com**
 
