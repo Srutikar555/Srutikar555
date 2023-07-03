@@ -2,7 +2,7 @@
 
 <p align="center" >
  
-  <img height=10px src="(https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://Srutikar555.io) "/>
+  <img src="(https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://Srutikar555.io) "/>
   
  </p>
  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=8688F5FF&size=30&center=true&vCenter=true&width=1000&height=70&lines=Hey+There+&#33+I'm+Sruti+Smaranika+Kar;A+passionate+Web+,+android+Developer+and+UI/UX+Designer;Welcome+to+my+Github+Profile😄" />
@@ -25,7 +25,7 @@
 
 - 😄 Pronouns: she/her
 
-<h3 align="left">😄Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sruti-smaranika-kar-9a290125b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sruti-smaranika-kar-9a290125b" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/_srutikar_?igshid=mznlngnkzwq4mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_srutikar_?igshid=mznlngnkzwq4mg" height="30" width="40" /></a>
